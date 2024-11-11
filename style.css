@@ -17,6 +17,7 @@ h3 {
 
 h1 {
   font-size: 96px;
+  margin-bottom: 15px;
 }
 
 h2 {
@@ -103,7 +104,7 @@ p {
   }
   .app-link {
     display: block;
-    margin: 0auto;
+    margin: 0px 30px;
     text-align: center;
   }
 }
