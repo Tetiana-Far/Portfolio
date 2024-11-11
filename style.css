@@ -87,3 +87,23 @@ p {
 .app-link:hover {
   color: #0a58ca;
 }
+
+@media (max-width: 576px){
+  h1 {
+    font-size: 40px;
+  }
+  h2 {
+    font-size: 32px;
+  }
+  .app-heading {
+    text-align: center !important;
+  }
+  .app-paragraph {
+    text-align: center;
+  }
+  .app-link {
+    display: block;
+    margin: 0auto;
+    text-align: center;
+  }
+}
