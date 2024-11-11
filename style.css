@@ -88,7 +88,7 @@ p {
   color: #0a58ca;
 }
 
-@media (max-width: 576px){
+@media (max-width: 575px){
   h1 {
     font-size: 40px;
   }
